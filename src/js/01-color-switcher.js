@@ -29,4 +29,4 @@ timerId = setInterval(() => {
 function stopGenarateColor(e) {
     clearInterval(timerId);
     isActive = false;
-};
+}
